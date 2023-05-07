@@ -1,6 +1,6 @@
 # edgeTracing-edgeConnection
 
-edgeTracing(Original codes are from the GetLab https://getwww.uni-paderborn.de/)
+# 1. edgeTracing(Original codes are from the GetLab https://getwww.uni-paderborn.de/)
 
 INTRODUCTION
 ------------
@@ -53,7 +53,7 @@ The main sources are in src/. The files for the configuration are in config/.
     ├── Visualizer.cpp
     └── Visualizer.h
     
-edgeConnection
+# 2. edgeConnection
 
 INTRODUCTION
 ------------
