@@ -86,3 +86,4 @@ A file called "connected_edges" will be written in the corresponding "build" fol
 
 <img width="1035" alt="image" src="https://user-images.githubusercontent.com/125279855/236662011-200b9462-0002-4c31-925d-b47fff3429be.png">
 
+Pixels with the same color belongs to the same traced edge.
