@@ -1,6 +1,7 @@
 # edgeTracing-edgeConnection
 
 edgeTracing(Original codes are from the GetLab https://getwww.uni-paderborn.de/)
+
 INTRODUCTION
 ------------
 
@@ -53,6 +54,7 @@ The main sources are in src/. The files for the configuration are in config/.
     └── Visualizer.h
     
 edgeConnection
+
 INTRODUCTION
 ------------
 An edge connection algorithm is integrated in the tracing algorithm to connect edges around ambiguous pixels based on the tracing results.
