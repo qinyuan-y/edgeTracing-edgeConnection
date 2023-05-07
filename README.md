@@ -81,3 +81,8 @@ USAGE
 ------------
 The usage of the new algorithm follows the edgeTracing algorithm.
 A file called "connected_edges" will be written in the corresponding "build" folder which shows the results after connection.
+
+# Visualized Results
+
+<img width="1035" alt="image" src="https://user-images.githubusercontent.com/125279855/236662011-200b9462-0002-4c31-925d-b47fff3429be.png">
+
